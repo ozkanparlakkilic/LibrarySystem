@@ -6,7 +6,7 @@
 
 - Admin her yetkiye sahiptir ve her an her şeye ulaşabilir
 - Personel aylık ve haftalık raporlama, kullanıcı kitap iade takibi ve kitap ekleme gibi sistemlere ulaşır
-- Üye ise sisteme kaydolur ve kullanıcı girişini yapar . Sisteme giriş yaptıktn sonra kitap ödünç almak üzere yönlendirilir ve kitabı alır
+- Üye ise sisteme kaydolur ve kullanıcı girişini yapar . Sisteme giriş yaptıktan sonra kitap ödünç almak üzere yönlendirilir ve kitabı alır
 
   **Kitap alabilmenin şartları**
   - 20 gün içerisinde 3 den fazla kitap almamalı
